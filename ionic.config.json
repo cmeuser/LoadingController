@@ -1,5 +1,7 @@
 {
   "name": "LoadingCtrl",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
